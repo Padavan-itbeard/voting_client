@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/voting_client/static/js/main.99778278.js",
+    "index.html": "/voting_client/index.html",
+    "main.99778278.js.map": "/voting_client/static/js/main.99778278.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99778278.js"
+  ]
+}
