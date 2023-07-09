@@ -1,6 +1,6 @@
 import io from 'socket.io-client';
 import React, { useState, useEffect } from 'react';
-const URL = 'http://90.154.73.107:3001';
+const URL = 'http://localhost:3001';
 const socket = io(URL); // Подключение к серверу через веб-сокеты
 
 
